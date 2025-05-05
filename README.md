@@ -3,7 +3,7 @@
 > webpack plugin for Rust
 
 ## Installation
-
+asdfasdf
 With npm:
 
 ```sh
