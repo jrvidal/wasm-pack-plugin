@@ -35,7 +35,7 @@ class WasmPackPlugin {
          *
          * See https://github.com/wasm-tool/wasm-pack-plugin/issues/15
          */
-        this._ranInitialCompilation = false
+        this._ranInitialCompilation = false,
         this.crateDirectory = options.crateDirectory
         this.forceWatch = options.forceWatch
         this.forceMode = options.forceMode
